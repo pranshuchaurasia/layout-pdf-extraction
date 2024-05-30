@@ -1,0 +1,379 @@
+{
+    "languages": [
+        "en"
+    ],
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Message From Our CEO",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Introduction",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "About NVIDIA",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Our Code and Values",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Corporate Responsibility Management",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Stakeholder Engagement",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Business Practices",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 8,
+            "page_index": 10,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Business Continuity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Human Rights",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Cybersecurity",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Data Privacy",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Product Security",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Product Quality and Safety",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Customer Relations",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Trade Issues",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "People, Diversity and Inclusion",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 7,
+            "page_index": 15,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Recruitment",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Benefits and Compensation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Employee Engagement",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Learning and Development",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Health and Safety",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Retention",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Workforce and Diversity Data",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Supply Chain Management",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 26,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Social and Environmental Performance",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Responsible Sourcing",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Products and Society",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 2,
+            "page_index": 30,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Societal Innovation",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Trustworthy AI",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Sustainability",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 33,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Product Energy Efficiency",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Greenhouse Gas Emissions Management",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Product Lifecycle Efforts",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Accelerating Climate Action",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "Reporting Frameworks",
+            "level": 0,
+            "is_closed": false,
+            "n_kids": 4,
+            "page_index": 43,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "GRI Index ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "SASB Index ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "TCFD Index ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 55,
+            "view_mode": "Fit",
+            "view_pos": []
+        },
+        {
+            "title": "U.N. Sustainable Development Goals ",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "Fit",
+            "view_pos": []
+        }
+    ],
+    "pages": 59,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 56,
+        "code": 0,
+        "table": 47,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
