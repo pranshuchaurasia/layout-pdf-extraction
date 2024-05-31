@@ -4,7 +4,7 @@ class PDFParser(ABC):
     
 
     @abstractmethod
-    def parse_specific_pdf(self, filepath):
+    def parse_specific_pdf(self,pdf_name,page_number, batch_id):
         """
         Parse a specific PDF file.
         Args:
@@ -13,7 +13,7 @@ class PDFParser(ABC):
         pass
     
     @abstractmethod
-    def parse_all_pdfs(self):
+    def parse_all_pdfs(self, batch_id):
         """
         Parse all PDF files within a given directory. If the file is already parsed, it will skip.
         Args:
@@ -27,6 +27,29 @@ class PDFParser(ABC):
         Configure the pdf -parser settings.
         Args:
         **kwargs: Arbitrary keyword arguments for configuration settings.
+        """
+        pass
+
+
+
+    @abstractmethod
+    def view_parsed_pdf(self,pdf_name,format):
+        """
+        Display the parsed result of a PDF file in Markdown, JSON, or HTML format.
+        
+        Args:
+        pdf_name (str): The name of the PDF file to display results for.
+        format (str): The format to display the results in ('markdown', 'json', 'html').
+
+        Returns:
+        str: The result in the requested format.
+        """
+        pass
+
+    @abstractmethod
+    def all_source_files(self):
+        """
+        Get all the ESG pdf files list that are present in the source path.
         """
         pass
 
